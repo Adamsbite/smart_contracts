@@ -5,7 +5,7 @@ pragma solidity ^0.8.17;
     Ballot Smart Contract   
     @Author: Web3Bridge Cohort9
     @Date: 2021/07/10
-    @Instructions: Please add comments to each line of code explaining what the code is doing
+    @Instructions: Please add comments to each line of code explaining what the code is doing   
 */
 contract Ballot { 
     struct Voter {
