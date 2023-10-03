@@ -8,7 +8,7 @@ pragma solidity ^0.8.17;
     @Instructions: Please add comments to each line of code explaining what the code is doing   
 */
 contract Ballot { 
-    struct Voter {
+    struct Voter { 
         uint weight;
         bool hasVoted;
         address delegate;
